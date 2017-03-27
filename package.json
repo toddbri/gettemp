@@ -1,0 +1,16 @@
+{
+  "name": "gettemp",
+  "version": "2.2.1",
+  "description": "gets the current temperature for the specified zip code and units",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": ""
+  },
+  "author": "Todd Briley",
+  "license": "ISC"
+}
